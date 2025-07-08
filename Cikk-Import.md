@@ -42,4 +42,6 @@ Report types megadása `Settings/Taxonomies/Vocabularies/report_types_ov`
 A JSON fájlhoz tartozó link megadása, a feed beállítása.
 https://raw.githubusercontent.com/Lensver65/YASOC/refs/heads/main/wp_posts%20(1).json
 
-Aztán mehet is
+Aztán mehet is.
+
+Kivéve, ha túl nagy a fájl, mert akkor azt darabolni kell. Vagy máshová feltölteni...
